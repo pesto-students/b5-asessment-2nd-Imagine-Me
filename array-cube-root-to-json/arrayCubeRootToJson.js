@@ -11,4 +11,4 @@ const arrayCubeRootToJson = arr => {
     return outputJsonObject
 };
 
-module.exports = arrayCubeRootToJson
+export {arrayCubeRootToJson}
