@@ -1,0 +1,25 @@
+{
+  "name": "b5-asessment-2nd-imagine-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./array-utils/arrayUtils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesto-students/b5-asessment-2nd-Imagine-Me.git"
+  },
+  "author": "Prince Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesto-students/b5-asessment-2nd-Imagine-Me/issues"
+  },
+  "homepage": "https://github.com/pesto-students/b5-asessment-2nd-Imagine-Me#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.12.1"
+  }
+}
