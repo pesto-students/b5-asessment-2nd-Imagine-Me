@@ -2,7 +2,7 @@
   "name": "b5-asessment-2nd-imagine-me",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./array-utils/arrayUtils.js",
   "scripts": {
     "test": "jest"
   },
@@ -17,17 +17,7 @@
   },
   "homepage": "https://github.com/pesto-students/b5-asessment-2nd-Imagine-Me#readme",
   "dependencies": {
-    "babel-jest": "^26.6.3",
     "jest": "^26.6.3"
-  },
-  "jest": {
-    "verbose": true,
-    "transform": {
-      "^.+\\.js$": "babel-jest"
-    },
-    "globals": {
-      "NODE_ENV": "test"
-    }
   },
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.12.1"
